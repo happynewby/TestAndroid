@@ -103,7 +103,7 @@ public class MainActivity extends Activity {
  
          Adapter _adapter = new Adapter();
          ListView lv = (ListView)findViewById(R.id.list_item);
-         lv.setAdapter(_adapter);
+//         lv.setAdapter(_adapter);
 //        ListAdapter adapter = new SimpleAdapter(this, contactList,
 //                R.layout.activity_main,
 //                new String[] { TAG_NAME, TAG_EMAIL, TAG_PHONE_MOBILE }, new int[] {
